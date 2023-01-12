@@ -5,7 +5,7 @@
 這邊我使用一筆信用卡核發資料，該資料是一筆結構化資料，y 是二元類別變數，可以使用決策樹做預測或是XGBoost，接著我使用shap 套件去做重要特徵的分析<br>
 <br>
 
-- 資料來源：書本《Econometric Analysis》
+- 資料來源：[《Econometric Analysis》](https://spu.fem.uniag.sk/cvicenia/ksov/obtulovic/Manaž.%20štatistika%20a%20ekonometria/EconometricsGREENE.pdf)
 - [Kaggle 資料連結](https://www.kaggle.com/datasets/dansbecker/aer-credit-card-data)
 - [SHAP documents 參考](https://github.com/slundberg/shap)
 - [程式碼](https://github.com/hsiehbocheng/credit-issuance-analysis/blob/main/demo.ipynb)
