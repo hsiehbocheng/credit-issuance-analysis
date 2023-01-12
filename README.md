@@ -8,4 +8,5 @@
 - 資料來源：書本《Econometric Analysis》
 - [Kaggle 資料連結](https://www.kaggle.com/datasets/dansbecker/aer-credit-card-data)
 - [SHAP documents 參考](https://github.com/slundberg/shap)
+- [程式碼](https://github.com/hsiehbocheng/credit-issuance-analysis/blob/main/demo.ipynb)
 <br>
